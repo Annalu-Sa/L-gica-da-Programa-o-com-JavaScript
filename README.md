@@ -1,2 +1,2 @@
-# L-gica-da-Programa-o-com-JavaScript
+# Lógica da Programação com JavaScript
 Curso introdutório de JavaScript pela Alura
